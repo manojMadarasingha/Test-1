@@ -1,0 +1,27 @@
+{
+    "id": "2C891F11",
+    "path": "~/Documents/self-paced/data-science1/test-project-local-to-git/Test-1/Test-script.R",
+    "project_path": "Test-script.R",
+    "type": "r_source",
+    "hash": "1974123336",
+    "contents": "",
+    "dirty": false,
+    "created": 1700858608061.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,20",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1700858692,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1700858692422,
+    "read_only": false,
+    "read_only_alternatives": []
+}
